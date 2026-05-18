@@ -49,7 +49,6 @@ El analizador léxico classifies los componentes válidos en las siguientes cate
 
 
 
-
 \### Prerrequisitos
 
 Es necesario contar con Python 3 instalado y el entorno runtime de ANTLR v4 para Python. Puedes instalar la librería necesaria mediante el siguiente comando en la terminal:
