@@ -18,9 +18,9 @@ Este proyecto consiste en el diseño e implementación de un analizador léxico 
 
 \## Integrantes del Equipo
 
-\* Perez Castan Alejandro Emmanuel - 2223330182
+\* Perez Castan Alejandro Emmanuel - https://github.com/Alex3131Perez/analizador-lexico-lexquimica - 2223330182
 
-\* Sanchez Garcia Gael Antonio - 2223330195
+\* Sanchez Garcia Gael Antonio - https://github.com/a2223330195/analizador-lexico-lexquimica.git - 2223330195
 
 \* Alejandre Mar Sergio Adrian - 2223330133
 
